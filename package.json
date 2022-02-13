@@ -1,0 +1,14 @@
+{
+  "name": "database",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+   "sharmin"  : "json-server --watch db.json --port 5050"
+  },
+  "author": "sharmin",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}

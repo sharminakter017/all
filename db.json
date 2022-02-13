@@ -1,0 +1,161 @@
+{
+    "devs" : [
+        {
+            "id"         :   1,
+            "name"       : "Abul Hossain",
+            "skill"      : "Mearn-stack developer",
+            "age"        : 27,
+            "location"   : "Mirpur",
+            "photo"      : "https://i.postimg.cc/VNfnK48R/received-1936588693281302.jpg"   
+
+
+        },
+
+        {
+            "id"         :   2,
+            "name"       : "Sharmin Sultana",
+            "skill"      : "Wordpress developer",
+            "age"        : 20,
+            "location"   : "Uttara",
+            "photo"      : "https://i.postimg.cc/N0Mmqcsn/IMG-20220209-213420.jpg"   
+
+
+        },
+
+        {
+            "id"         :   3,
+            "name"       : "Dev",
+            "skill"      : "Laravel developer",
+            "age"        : 29,
+            "location"   : "Komolapur",
+            "photo"      : "https://vistapointe.net/images/dev-wallpaper-9.jpg"   
+
+
+        },
+
+        {
+            "id"         :   4,
+            "name"       : "Ayatunnur",
+            "skill"      : "Python developer",
+            "age"        : 34,
+            "location"   : "Chittagong",
+            "photo"      : "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://images.ctfassets.net/wp1lcwdav1p1/gzZpBDV3nX1AWytfLhbgs/d528553697d959544c8ca5b80b6d8beb/web_developer.png?w=1500&h=680&q=60&fit=fill&f=faces&fm=jpg&fl=progressive&auto=format%2Ccompress&dpr=1&w=1000&h="   
+
+
+        },
+
+        {
+            "id"         :   5,
+            "name"       : "Sajidul",
+            "skill"      : "Django developer",
+            "age"        : 24,
+            "location"   : "Dhaka",
+            "photo"      : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyolY81u785-YWD4GLMK2YPapn-O72NQ_S6wjieWBs7GovDhgq0lYyi4cln0vrlO9E8TM&usqp=CAU"   
+
+
+        }
+    ],
+
+    
+        "student-result"  : [
+            {
+                "roll"         :   1,
+                "name"         : "Tuba",
+                "class"        : 10,
+                "eng"          : 55,
+                "bn"           : 84,
+                "math"         : 90,
+                "social"       : 65,
+                "science"      : 88,
+                "religion"     :90,
+                "GPA"          : 3.75,
+                "Grade"        : "A-",
+                "Schools-name" : "Hajigong pailot high school and college",
+                "location"     : "Hajigong,chandpur",
+                "photo"        : "https://image.shutterstock.com/image-photo/female-high-school-student-studying-260nw-183792248.jpg"
+
+            },
+
+            {
+                "roll"         :   2,
+                "name"         : "Mou-rahman",
+                "class"        : 10,
+                "eng"          : 65,
+                "bn"           : 44,
+                "math"         : 70,
+                "social"       : 75,
+                "science"      : 58,
+                "religion"     :60,
+                "GPA"          : 3.00,
+                "Grade"        : "A-",
+                "Schools-name" : "Hajigong pailot high school and college",
+                "location"     : "Hajigong,chandpur",
+                "photo"        : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2UDLdhFE61Mdz0OlLv6pHwSWO4E_UT1y9lQOgCFQfBufB3iIRYzmwP1QoZCPYr0VWWtI&usqp=CAU"
+
+            },
+
+            {
+                "roll"         :   3,
+                "name"         : "Sharmin",
+                "class"        : 10,
+                "eng"          : 90,
+                "bn"           : 84,
+                "math"         : 90,
+                "social"       : 85,
+                "science"      : 88,
+                "religion"     :90,
+                "GPA"          : 5.00,
+                "Grade"        : "A+",
+                "Schools-name" : "Hajigong pailot high school and college",
+                "location"     : "Hajigong,chandpur",
+                "photo"        : "https://media.istockphoto.com/photos/small-school-girl-sitting-at-the-desk-in-classroom-looking-at-camera-picture-id1173363595?k=20&m=1173363595&s=612x612&w=0&h=7bQHknvgJYLBmOivL5_oxwvBfKuao0DBJB55OrZbhg8="
+
+
+            }
+        ],
+
+
+        "products-catagories"   : [
+
+            {
+                "id"                   : 1,
+                "catagories-name"      : "Mens-bachalor-point",
+                "products-name"        : "T-shirt",
+                "photo"                : "https://i.pinimg.com/736x/88/41/70/8841705eadb8a0ceb81ce654f8fb517b--basic-t-shirts-tee-shirts.jpg"
+
+            },
+
+            {
+                "id"                   : 2,
+                "catagories-name"      : "Womans",
+                "products-name"        : "Shari",
+                "photo"                : "https://i.pinimg.com/originals/a9/6c/ca/a96cca7866db6d9db96a8fab9eb07c53.jpg"
+            }
+        ],
+
+        "Brands"     :   [
+
+            {
+                "id"              :   1,
+                "brands-name"     : "Apple",
+                "products-name"   : "apple-mobile",
+                "photo"           : "https://images.unsplash.com/photo-1603791239531-1dda55e194a6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YXBwbGUlMjBpcGhvbmV8ZW58MHx8MHx8&w=1000&q=80"
+            },
+
+            {
+                "id"              :   2,
+                "brands-name"     : "Samsung-gallaxy",
+                "products-name"   : "samsung mobile",
+                "photo"           : "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-m20-m205f-1.jpg"
+
+            },
+
+            {
+                "id"              :   3,
+                "brands-name"     : "Vivo",
+                "products-name"   : "Vivo mobile",
+                "photo"           : "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-v20-1.jpg"
+            }
+        ]
+    
+}
